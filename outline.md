@@ -36,7 +36,8 @@
   6.２ 平台加速硬件
   6.３ 多编程语言处理
   6.4 ONNX Runtime Server
-  6.5 模型安全
+  6.5  ONNX models on TVM (https://blog.csdn.net/hw5226349/article/details/90747300)
+  6.6 模型安全
 七、 应用示例
     7.1 CV
     7.1.1 OCR 
