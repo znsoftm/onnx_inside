@@ -1,3 +1,4 @@
+```
 import torch
 import numpy as np
 import cv2
@@ -11,3 +12,4 @@ img = cv2.cvtColor(cv2.imread('5.png'), cv2.COLOR_BGR2GRAY)
 blob= cv2.dnn.blobFromImage(img, size=(64,256))
 net.setInput(blob)
 net.forward()
+```
