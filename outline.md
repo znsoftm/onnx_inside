@@ -29,6 +29,7 @@
     
     
 六 ONNX 模型
+    6.0 ONNX模型文件结构 （https://github.com/onnx/onnx/blob/master/docs/IR.md）
     6.1 模型转换与算子
     6.2 模型转换工具
     6.3 算子自定义处理
