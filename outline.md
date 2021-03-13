@@ -40,7 +40,10 @@
     
     7.１ 模型推理
     7.２ 平台加速硬件
-    7.３ 多编程语言处理
+    7.2.1 PC平台CPU加速
+    7.2.2  PC平台GPU加速
+    7.2.3  移动平台加速 
+    7.3 多编程语言处理
     7.4  ONNX Runtime Server
     7.5  ONNX models on TVM (https://blog.csdn.net/hw5226349/article/details/90747300)
     7.6  ONNX on OpenCV
