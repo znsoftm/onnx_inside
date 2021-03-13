@@ -35,6 +35,7 @@
     6.3 算子自定义处理
     6.4 Model Zoo
     6.5 如何部署onnx模型  （https://mp.weixin.qq.com/s/u-ie6IdO8qUdB04jff0C9w)
+    6.5 使用onnx部署传统机器模型  （https://zhuanlan.zhihu.com/p/86867138）
 
 七 全平台工程落地
     
