@@ -24,15 +24,19 @@
     5.1 Pytorch环境
     5.2 张量
     5.3 模型搭建
-    5.4 训练onnx模型
+    5.4 pytorch转onnx模型
+    5.5 直接训练onnx模型
+    
     
 六 ONNX 模型
     6.1 模型转换与算子
     6.2 模型转换工具
     6.3 算子自定义处理
     6.4 Model Zoo
+    6.5 如何部署onnx模型  （https://mp.weixin.qq.com/s/u-ie6IdO8qUdB04jff0C9w)
 
 七 全平台工程落地
+    
     7.１ 模型推理
     7.２ 平台加速硬件
     7.３ 多编程语言处理
