@@ -31,11 +31,14 @@
 六 ONNX 模型
     6.0 ONNX模型文件结构 （https://github.com/onnx/onnx/blob/master/docs/IR.md）
     6.1 模型转换与算子
-    6.2 模型转换工具
-    6.3 算子自定义处理
-    6.4 Model Zoo
-    6.5 如何部署onnx模型  （https://mp.weixin.qq.com/s/u-ie6IdO8qUdB04jff0C9w)
-    6.5 使用onnx部署传统机器模型  （https://zhuanlan.zhihu.com/p/86867138）
+    6.1.1 opset 算子集版本
+    8.2 模型转换工具
+    8.2.1 Tensorflow2Onnx
+    8.2.3 Pytorch2Onnx
+    8.3 算子自定义处理
+    8.4 Model Zoo
+    8.5 如何部署onnx模型  （https://mp.weixin.qq.com/s/u-ie6IdO8qUdB04jff0C9w)
+    8.6 使用onnx部署传统机器模型  （https://zhuanlan.zhihu.com/p/86867138）
 
 七 全平台工程落地
     
