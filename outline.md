@@ -41,17 +41,20 @@
     8.6 使用onnx部署传统机器模型  （https://zhuanlan.zhihu.com/p/86867138）
 
 七 全平台工程落地
-    7.１ 模型推理
-    7.２ 平台加速硬件
-    7.2.1 PC平台CPU加速
-    7.2.2  PC平台GPU加速
-    7.2.3  移动平台加速 
-    7.2.3  Onnx on TensorRT
-    7.2.4 Onnx on OpenVino
-    7.3  ONNX Runtime Server
-    7.4  ONNX models on TVM (https://blog.csdn.net/hw5226349/article/details/90747300)
-    7.5  ONNX on OpenCV
-    7.6 模型安全
+    7.1 数据预处理
+    7.1.1 opencv 扩展
+    7.1.2 NLP预处理
+    7.2 模型推理
+    7.3 平台加速硬件
+    7.4.1 PC平台CPU加速
+    7.4.2  PC平台GPU加速
+    7.4.3  移动平台加速 
+    7.5  Onnx on TensorRT
+    7.6 Onnx on OpenVino
+    7.7  ONNX Runtime Server
+    7.8  ONNX models on TVM (https://blog.csdn.net/hw5226349/article/details/90747300)
+    7.9  ONNX on OpenCV
+    7.10 模型安全
 八、 应用示例
     8.1 CV
     8.1.1 OCR 
