@@ -52,7 +52,7 @@
     7.5  Onnx on TensorRT
     7.6 Onnx on OpenVino
     7.7  ONNX Runtime Server
-    7.8  ONNX models on TVM (https://blog.csdn.net/hw5226349/article/details/90747300)
+    7.8  ONNX models on TVM (https://blog.csdn.net/hw5226349/article/details/90747300 , https://tvm.apache.org/docs/tutorials/frontend/from_onnx.html#sphx-glr-tutorials-frontend-from-onnx-py)
     7.9  ONNX on OpenCV
     7.10 模型安全
 八、 应用示例
